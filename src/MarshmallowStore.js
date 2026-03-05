@@ -1,1 +1,6 @@
-src/MarshmallowStore.js
+marshmallow-sweet-store
+│
+├── src
+│   └── MarshmallowStore.js
+│
+└── public
